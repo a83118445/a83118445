@@ -1,4 +1,4 @@
-<!-- 侧边栏 docs/_sidebar.md -->
+﻿<!-- 侧边栏 docs/_sidebar.md -->
 
 - 基础笔记
   - [1. 创建项目](/doc1/1.md)
