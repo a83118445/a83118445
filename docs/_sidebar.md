@@ -1,7 +1,12 @@
-﻿﻿<!-- 侧边栏 docs/_sidebar.md -->
+- 前言
+    - [简介](zh-cn/README.md)
+    
+- C++
+    - [基础](zh-cn/C++/base.md)
+    - [函数](zh-cn/C++/func.md)
+    - [对象](zh-cn/C++/object.md)
 
-- 111
-  - [1. 22](/doc1/1.md)
-  - [2.33](/doc1/2.md)
-  <!-- 以下略 -->
-
+- Python
+    - [基础](zh-cn/Python/base.md)
+    - [函数](zh-cn/Python/func.md)
+    - [对象](zh-cn/Python/object.md)
