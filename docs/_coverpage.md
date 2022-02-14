@@ -2,12 +2,6 @@
 
 ![logo](_media/icon2.png)
 
-# 123 <small></small>
+# 学习笔记 <small></small>
 
-> 123
-
-- 1
-- 1
-- 1
-
-[开始使用](#欢迎使用)
+[开始阅读](README.md)
